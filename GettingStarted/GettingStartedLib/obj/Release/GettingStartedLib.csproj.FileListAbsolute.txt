@@ -1,0 +1,6 @@
+D:\Edu\CSharp\GettingStarted\GettingStartedLib\bin\Release\GettingStartedLib.dll.config
+D:\Edu\CSharp\GettingStarted\GettingStartedLib\bin\Release\GettingStartedLib.dll
+D:\Edu\CSharp\GettingStarted\GettingStartedLib\bin\Release\GettingStartedLib.pdb
+D:\Edu\CSharp\GettingStarted\GettingStartedLib\obj\Release\GettingStartedLib.csprojAssemblyReference.cache
+D:\Edu\CSharp\GettingStarted\GettingStartedLib\obj\Release\GettingStartedLib.dll
+D:\Edu\CSharp\GettingStarted\GettingStartedLib\obj\Release\GettingStartedLib.pdb

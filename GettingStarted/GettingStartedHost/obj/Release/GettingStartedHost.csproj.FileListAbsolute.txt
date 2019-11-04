@@ -1,0 +1,10 @@
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.exe.config
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.exe
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.pdb
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.dll
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.pdb
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.dll.config
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.csprojAssemblyReference.cache
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.csproj.CopyComplete
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.exe
+D:\Edu\CSharp\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.pdb
